@@ -8,7 +8,7 @@ setup(
     license='',
     author='Orf',
     author_email='tom@tomforb.es',
-    description='',
+    description='Python web scraping framework',
     install_requires=[
         "lxml",
         "aiopipes",
